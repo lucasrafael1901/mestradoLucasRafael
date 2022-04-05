@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/refatoringminer.iml" filepath="$PROJECT_DIR$/refatoringminer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LexerAnalyzer.iml" filepath="$PROJECT_DIR$/LexerAnalyzer.iml" />
     </modules>
   </component>
 </project>
