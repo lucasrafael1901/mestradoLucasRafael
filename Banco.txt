@@ -1,0 +1,7 @@
+create table token(
+id integer unsigned auto_increment not null,
+token text,
+snapshotId varchar(255),
+refactoringType mediumtext,
+codeStatement mediumtext,
+primary key(id));
